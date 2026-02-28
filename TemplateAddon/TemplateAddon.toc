@@ -1,0 +1,9 @@
+## Interface: 110002
+## Title: Plug in the Vibe!
+## Notes: A basic template for starting new World of Warcraft Addons.
+## Author: Gemini 3.1 Pro
+## Version: 1.0.0
+## SavedVariables: TemplateAddonDB
+
+# Core files
+main.lua
